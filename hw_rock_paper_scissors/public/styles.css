@@ -1,0 +1,20 @@
+body {background-color: dodgerblue}
+
+nav {background-color: tomato;
+    color: white;
+}
+
+link {color: white;}
+
+h1 {color: white;
+    font-family: "Arial";
+    font-weight: 700;
+    font-size: 16;
+    text-align: center;
+}
+
+h2 {color: white;
+    font-family: "Arial";
+    font-size: 12;
+    text-align: center;
+}
